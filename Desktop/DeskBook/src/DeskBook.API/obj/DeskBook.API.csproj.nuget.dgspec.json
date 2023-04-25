@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.API\\DeskBook.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.API\\DeskBook.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.API\\DeskBook.API.csproj",
+        "projectName": "DeskBook.API",
+        "projectPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.API\\DeskBook.API.csproj",
+        "packagesPath": "C:\\Users\\brijal.prajapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brijal.prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.AppServices\\DeskBook.AppServices.csproj": {
+                "projectPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.AppServices\\DeskBook.AppServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.AppServices\\DeskBook.AppServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.AppServices\\DeskBook.AppServices.csproj",
+        "projectName": "DeskBook.AppServices",
+        "projectPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.AppServices\\DeskBook.AppServices.csproj",
+        "packagesPath": "C:\\Users\\brijal.prajapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.AppServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brijal.prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.Infrastructure\\DeskBook.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.Infrastructure\\DeskBook.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.Infrastructure\\DeskBook.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.Infrastructure\\DeskBook.Infrastructure.csproj",
+        "projectName": "DeskBook.Infrastructure",
+        "projectPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.Infrastructure\\DeskBook.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\brijal.prajapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brijal.prajapati\\Desktop\\DeskBook\\src\\DeskBook.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brijal.prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

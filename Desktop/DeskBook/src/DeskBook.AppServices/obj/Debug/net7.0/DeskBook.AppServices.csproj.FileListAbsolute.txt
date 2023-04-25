@@ -1,0 +1,15 @@
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\bin\Debug\net7.0\DeskBook.AppServices.deps.json
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\bin\Debug\net7.0\DeskBook.AppServices.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\bin\Debug\net7.0\DeskBook.AppServices.pdb
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\bin\Debug\net7.0\DeskBook.Infrastructure.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\bin\Debug\net7.0\DeskBook.Infrastructure.pdb
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.csproj.AssemblyReference.cache
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.AssemblyInfoInputs.cache
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.AssemblyInfo.cs
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.csproj.CoreCompileInputs.cache
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.csproj.CopyComplete
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\refint\DeskBook.AppServices.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\DeskBook.AppServices.pdb
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.AppServices\obj\Debug\net7.0\ref\DeskBook.AppServices.dll

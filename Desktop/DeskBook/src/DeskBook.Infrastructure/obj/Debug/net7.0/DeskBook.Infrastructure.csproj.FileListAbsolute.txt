@@ -1,0 +1,12 @@
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\bin\Debug\net7.0\DeskBook.Infrastructure.deps.json
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\bin\Debug\net7.0\DeskBook.Infrastructure.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\bin\Debug\net7.0\DeskBook.Infrastructure.pdb
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.AssemblyInfo.cs
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\refint\DeskBook.Infrastructure.dll
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\DeskBook.Infrastructure.pdb
+C:\Users\brijal.prajapati\Desktop\DeskBook\src\DeskBook.Infrastructure\obj\Debug\net7.0\ref\DeskBook.Infrastructure.dll
